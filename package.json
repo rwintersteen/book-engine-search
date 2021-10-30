@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
+  "engines": {
+    "node": "7.x",
+    "npm": "14.x"
+  },
   "scripts": {
     "start": "node server/server.js",
     "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
@@ -20,6 +24,7 @@
     "apollo-server": "^3.4.0",
     "apollo-server-express": "^3.4.0",
     "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "graphql": "^15.6.1",
     "jsonwebtoken": "^8.5.1",
