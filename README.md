@@ -12,7 +12,6 @@ SO THAT I can keep a list of books to purchase
 ## Table of Contents
 * [Installation](#Installation)
 * [Technologies Used](#Technologies-Used)
-* [Demo](#Demo)
 * [Repository](#Repository)
 * [Creators](#Creators)
 
@@ -27,10 +26,6 @@ After cloning the repository:
 * React, Javascript, HTML, CSS, React Bootstrap
 * ApolloServer, GraphQL
 * MongoDB
-
-## Demo
-![Demo](/client/src/assets/)
-
 ## Repository
 * GitHub Repo: https://github.com/rwintersteen/book-engine-search
 * Heroku Deployment: https://book-engine-search-1.herokuapp.com/
