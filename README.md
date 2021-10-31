@@ -7,7 +7,7 @@ I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 ```
 
-![Homepage](/client/src/assets/)
+![Homepage](/client/src/assets/book-engine-search-homepage.png)
 
 ## Table of Contents
 * [Installation](#Installation)
